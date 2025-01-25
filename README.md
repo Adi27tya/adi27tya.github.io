@@ -19,6 +19,6 @@
     Python <br>
         Excel </p> <hr> 
     
-    <p> To see my Project &hands on experiences visit : <a href="https://www.linkedin.com/in/aditya-singh-676884332/"> LinkedIn</a></p>
+    <p> To see my Project &hands on experiences visit : <a href="https://www.linkedin.com/in/aditya-singh-676884332/"> LinkedIn </a> </p>
 </body>
 </html>

@@ -17,7 +17,7 @@
     <h2> Skills </h2> <br>
     <p> HTML <br>
     Python <br>
-        Excel </p>
+        Excel </p> <hr> 
     
     <p> To see my Project &hands on experiences visit : <a href="https://www.linkedin.com/in/aditya-singh-676884332/"> LinkedIn</a></p>
 </body>
